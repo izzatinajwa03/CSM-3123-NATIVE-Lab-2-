@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Set the color of the overflow menu icon (dots) -->
+        <item name="colorControlNormal">@android:color/black</item>
+
+        <item name="colorPrimary">#FF6200EE</item>  <!-- Change to desired color -->
+        <item name="colorPrimaryDark">#FF3700B3</item>
+        <item name="colorAccent">#FF03DAC5</item>
+
+    </style>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+</resources>
